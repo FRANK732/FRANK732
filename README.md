@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FRANK732
+- 👋 Hi, I’m FRANK ADDAI
 - 👀 I’m interested in Software Developing And Machine Learning
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Mobile App And Website Developing  as well as Computer Vision Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me Hacphran122@gmail.com
 
