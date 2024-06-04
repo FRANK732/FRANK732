@@ -45,8 +45,8 @@
         <img height="64px" src="https://skillicons.dev/icons?i=python">
       </td>
       <td width="25%" align="center">
-        <span>GIT</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
+        <span>Typescript</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=ts">
       </td>
      </tr>
   </tbody>
@@ -58,6 +58,10 @@
     <h3 align="left">Tools:</h3>
    <tr valign="top">
       <td width="25%" align="center">
+        <span>DotNet</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=dotnet">
+      </td>
+      <td width="25%" align="center">
         <span>AWS</span><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=aws">
       </td>
@@ -67,11 +71,52 @@
       </td>
       <td width="25%" align="center">
         <span>Kurbenetes</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=kurbenetes">
+        <img height="64px" src="https://skillicons.dev/icons?i=kubernetes">
       </td>
       <td width="25%" align="center">
         <span>RabbitMQ</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=rabbit">
+        <img height="64px" src="https://skillicons.dev/icons?i=rabbitmq">
+      </td>
+      <td width="25%" align="center">
+        <span>Azure</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=azure">
+      </td>
+      <td width="25%" align="center">
+        <span>DotNet</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=dotnet">
+      </td>
+      <td width="25%" align="center">
+        <span>Flutter</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=flutter">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=git">
+      </td>
+     </tr>
+  </tbody>
+</table>
+
+
+<table width="100%">
+  <tbody>
+    <h3 align="left">DataBases:</h3>
+   <tr valign="top">
+      <td width="25%" align="center">
+        <span>MongoDb</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=mongodb">
+      </td>
+      <td width="25%" align="center">
+        <span>MSQL</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=mysql">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=python">
+      </td>
+      <td width="25%" align="center">
+        <span>GIT</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
   </tbody>
