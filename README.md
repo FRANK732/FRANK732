@@ -53,6 +53,10 @@
         <img height="64px" src="https://skillicons.dev/icons?i=dotnet">
       </td>
       <td width="25%" align="center">
+        <span>Azure</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=azure">
+      </td>
+      <td width="25%" align="center">
         <span>AWS</span><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=aws">
       </td>
@@ -69,20 +73,12 @@
         <img height="64px" src="https://api.nuget.org/v3-flatcontainer/ocelot/23.2.2/icon">
       </td>
       <td width="25%" align="center">
-        <span>Flutter</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=flutter">
-      </td>
-      <td width="25%" align="center">
         <span>RabbitMQ</span><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=rabbitmq">
       </td>
       <td width="25%" align="center">
-        <span>Azure</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=azure">
-      </td>
-      <td width="25%" align="center">
-        <span>DotNet</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=dotnet">
+        <span>Flutter</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=flutter">
       </td>
       <td width="25%" align="center">
         <span>React</span><br><br>
