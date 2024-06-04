@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">A driven and dedicated developer, turning ideas into applications</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://github.com/FRANK732/FRANK732/blob/main/Animation%20-%201717513308173.gif](https://github.com/FRANK732/FRANK732/blob/main/Animation%20-%201717513308173.gif)">
+<img align="right" alt="Coding" width="400" src="https://github.com/FRANK732/FRANK732/blob/main/Animation%20-%201717513308173.gif">
 
 - 🔭 I’m currently working on **ERP Systems**
 - 🌱 I’m currently learning **and keeping abreast emerging technologies, software trends and applying them to projects**
