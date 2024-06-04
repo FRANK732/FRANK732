@@ -3,7 +3,7 @@
 
 - I am a Backend Engineer with over 2 years of experience in Backend Development, With a focus on API development, I leverage C# and ASP.NET to build backend applications. In several projects I contribute to development and make the team achieve their own task and of course I'm making sure that developments are in line with the Business requirements.
   
-- 🔭 I’m currently working on **ERP Systems and Health Software**
+- 🔭 I’m currently working on **ERP Systems and Health Care Software**
 
 - 💬 Ask me about ** Backend Development, Mobile Development, Database Development and integrations, API Integrations,  C#, Dart, Flutter, React Native, and **ASPNET**
 
