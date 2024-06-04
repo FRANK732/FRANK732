@@ -70,6 +70,31 @@
   </tbody>
 </table>
 
+
+<table width="100%">
+  <tbody>
+    <h3 align="left">Tools:</h3>
+   <tr valign="top">
+      <td width="25%" align="center">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=aws-dark">
+      </td>
+      <td width="25%" align="center">
+        <span>Dart</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=dart">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=python">
+      </td>
+      <td width="25%" align="center">
+        <span>GIT</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
+      </td>
+     </tr>
+  </tbody>
+</table>
+
 <!---
 #### 🦾 Software
 [![My Skills](https://skillicons.dev/icons?i=cs,dart,react,typescript,tailwind)](https://skillicons.dev)
