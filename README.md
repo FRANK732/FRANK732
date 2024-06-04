@@ -27,9 +27,10 @@
 <!--<a href="https://www.hackerrank.com/profile/jamesbondyeboah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jesse Yeboah" height="30" width="40" /></a>-->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <table width="100%">
   <tbody>
+    <h3 align="left">Languages:</h3>
    <tr valign="top">
       <td width="25%" align="center">
         <span>Laravel</span><br><br>
@@ -68,6 +69,7 @@
     </tr>
   </tbody>
 </table>
+
 <!---
 #### 🦾 Software
 [![My Skills](https://skillicons.dev/icons?i=cs,dart,react,typescript,tailwind)](https://skillicons.dev)
