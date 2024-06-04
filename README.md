@@ -49,24 +49,6 @@
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
-    <tr valign="top">
-     <td width="25%" align="center">
-        <span>Postman</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/postman.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Figma</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/figma.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Code Editor</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
-      </td>
-       <td width="25%" align="center">
-        <span>Linux OS</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -77,19 +59,19 @@
    <tr valign="top">
       <td width="25%" align="center">
         <span>AWS</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=aws-dark">
+        <img height="64px" src="https://skillicons.dev/icons?i=aws">
       </td>
       <td width="25%" align="center">
-        <span>Dart</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=dart">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=docker">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=python">
+        <span>Kurbenetes</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=kurbenetes">
       </td>
       <td width="25%" align="center">
-        <span>GIT</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
+        <span>RabbitMQ</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=rabbit">
       </td>
      </tr>
   </tbody>
