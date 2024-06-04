@@ -8,14 +8,14 @@
 
 - 👯 I’m looking to collaborate on **Open Source and real-world experience as a developer**
 
-- 💬 Ask me about ** Backend Development, Web Development, Database Development and integrations, API Integrations,  Javascript, Typescript, React, Next, React Native, and **MERN**
+- 💬 Ask me about ** Backend Development, Mobile Development, Database Development and integrations, API Integrations,  Javascript, Typescript, React, Next, React Native, and **MERN**
 
-- 📫 How to reach me **jesseowusuyeboah55@gmail.com**
+- 📫 How to reach me **hacphran122@gmail.com**
 <p><br/>&nbsp;</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eaglementality&label=Profile%20views&color=0e75b6&style=flat" alt="eaglementality" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FRANK732&label=Profile%20views&color=0e75b6&style=flat" alt="FRANK732" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaglementality" alt="eaglementality" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FRANK732" alt="FRANK732" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -23,15 +23,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jesse-yeboah-b38242220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesse Yeboah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/jamesbondyeboah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jesse Yeboah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/frankaddai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesse Yeboah" height="30" width="40" /></a>
+<!--<a href="https://www.hackerrank.com/profile/jamesbondyeboah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jesse Yeboah" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,nextjs,react,typescript,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=csharp,react,typescript,tailwind)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Frameworks & Libraries
@@ -39,7 +39,7 @@
 
 ---
 #### 🗄 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql)](https://skillicons.dev)
 
 ---
 #### 🔮 OS & Servers
