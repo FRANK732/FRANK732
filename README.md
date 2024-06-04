@@ -57,3 +57,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FRANK732&show_icons=true&locale=en" alt="FRANK732" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FRANK732&" alt="FRANK732" /></p>
+
+
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.base.header.svg">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.base.activity-community.svg">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.base.repositories.svg">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.plugin.stackoverflow.svg">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.plugin.languages.svg">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.plugin.followup.svg">
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github.com/nekofar/nekofar/blob/master/assets/metrics.plugin.achievements.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
