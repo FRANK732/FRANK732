@@ -31,7 +31,7 @@
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=csharp,react,typescript,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dart,react,typescript,tailwind)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Frameworks & Libraries
