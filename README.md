@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">A driven and dedicated developer, turning ideas into applications</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://lottie.host/c48aecf8-f385-40c7-af40-10e7e1073781/rmByipyqKy.lottie)">
 
 - 🔭 I’m currently working on **ERP Systems**
 - 🌱 I’m currently learning **and keeping abreast emerging technologies, software trends and applying them to projects**
