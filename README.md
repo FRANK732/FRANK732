@@ -33,16 +33,16 @@
     <h3 align="left">Languages:</h3>
    <tr valign="top">
       <td width="25%" align="center">
-        <span>Laravel</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/laravel.svg">
+        <span>C-Sharp</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=cs">
       </td>
       <td width="25%" align="center">
-        <span>Go Lang</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/go.svg">
+        <span>Dart</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=dart">
       </td>
       <td width="25%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=docker">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=python">
       </td>
       <td width="25%" align="center">
         <span>GIT</span><br><br>
