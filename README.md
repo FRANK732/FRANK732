@@ -40,6 +40,10 @@
         <span>Typescript</span><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=ts">
       </td>
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=js">
+      </td>
      </tr>
   </tbody>
 </table>
