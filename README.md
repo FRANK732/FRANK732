@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">A driven and dedicated Backend Developer</h3>
 <img align="right"  alt="Coding" width="200" src="https://github.com/FRANK732/FRANK732/blob/main/Animation%20-%201717506254351.gif">
-- I am a Backend Engineer with over 2 years of experience in Backend Development, With a focus on API development, I leverage C# and ASP.NET to build backend applications. In several projects I contribute to development and make the team achieve their own task and of course I'm making sure that developments are in line with the Business requirements.
+- I am a Software Engineer with over 3 years of experience in Backend Development, With a focus on API development, I leverage C# and ASP.NET to build backend applications. In several projects I contribute to development and make the team achieve their own task and of course I'm making sure that developments are in line with the Business requirements.
   
 - 🔭 I’m currently working on **ERP Systems and Health Care Software**
 
